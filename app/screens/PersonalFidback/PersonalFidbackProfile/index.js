@@ -1,0 +1,2 @@
+import PersonalFidbackProfileContainer from './PersonalFidbackProfileContainer';
+export default PersonalFidbackProfileContainer;

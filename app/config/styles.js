@@ -1,0 +1,27 @@
+/*
+ * Provides universal color configs used in the app.
+ * Provides universal fonts used in the app.
+ */
+const AppStyles = {
+    color: {
+        COLOR_PRIMARY: '#e5006d',
+        COLOR_SECONDARY: '#111',
+        COLOR_WHITE: '#FFFFFF',
+        COLOR_BLACK: '#000000',
+        COLOR_GREY: '#ededed',
+        COLOR_GREEN: 'green',
+        COLOR_PLACEHOLDER: '#111111',
+        COLOR_GREY_WHITE: '#fafafa',
+        COLOR_DARK_SEPERATOR: '#d4d4d4',
+        COLOR_BLACK_TRANSP: 'rgba(0, 0, 0, 0.38)',
+        COLOR_GREY_TRANSP: 'rgba(67, 85, 85, 0.38)',
+        COLOR_TRANSPARENT: 'rgba(0, 0, 0, 0)',
+        COLOR_LIGHT_PINK: '#ffa4b0',
+        COLOR_DISABLE: '#b3b3b3',
+    },
+    fonts: {
+        // FONT_REGULAR: 'Roboto-Regular',
+        // FONT_MEDIUM: 'Roboto-Medium'
+    }
+};
+export default AppStyles;

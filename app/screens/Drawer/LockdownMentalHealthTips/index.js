@@ -1,0 +1,2 @@
+import LockdownMentalHealthTipsContainer from './LockdownMentalHealthTipsContainer';
+export default LockdownMentalHealthTipsContainer;
